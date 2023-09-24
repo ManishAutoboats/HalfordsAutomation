@@ -9,5 +9,6 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(features="src/test/java/features",glue={"stepDefination","helper"},tags="@test",
 plugin="json:target/jsonReports/testreport.json")
 public class TestRunner {
+	//Automation test case
 
 }
