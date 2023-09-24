@@ -28,3 +28,10 @@ Scenario: Login with valid and invalid password
 	When user enter "standard_user" and "ssfsf" 
 	And user click on login button 
 	Then validate login error message
+	
+	
+	@Reg 
+Scenario: Login with blank user and blank password 
+	When user enter "" and "" 
+	And user click on login button 
+	Then validate login error message
