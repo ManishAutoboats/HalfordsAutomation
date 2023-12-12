@@ -14,3 +14,4 @@ Scenario: Add to cart from PLP for multipleProuct
 	And user click on add to cart button product1 
 	And user click on add to cart button product2 
 	Then validate cart count is "2"	
+	#test automaiton
