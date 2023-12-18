@@ -47,6 +47,8 @@ public class Base {
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
+			//Plawright and selenium
+			//Ranorex and QTP
 		}
 
 	}
