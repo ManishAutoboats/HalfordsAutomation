@@ -12,7 +12,7 @@ local.properties
 .loadpath
 .recommenders
 target/
-
+.class
 # External tool builders
 .externalToolBuilders/
 
