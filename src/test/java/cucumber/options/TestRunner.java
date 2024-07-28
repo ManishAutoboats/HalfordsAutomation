@@ -10,15 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 plugin="json:target/jsonReports/testreport.json")
 public class TestRunner {
 
-// test automation
-	//test user test automation
-	//Test automation X barnch
 
-	// animesh
-	//Nazeem
-	// Vinod code
-	// javed code
-	//javed test code
 
 
 
