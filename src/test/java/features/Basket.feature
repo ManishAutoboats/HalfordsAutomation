@@ -16,3 +16,5 @@ Scenario: Add to cart from PLP for multipleProuct
 	Then validate cart count is "2"	
 	#test automaiton
 	#tesgs
+	
+	# TestAutomation fremwork
